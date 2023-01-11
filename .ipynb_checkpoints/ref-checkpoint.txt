@@ -1,0 +1,1 @@
+https://github.com/chasinginfinity/ml-from-scratch/blob/master/02%20Linear%20Regression%20using%20Gradient%20Descent/Linear%20Regression%20using%20Gradient%20Descent.ipynb
