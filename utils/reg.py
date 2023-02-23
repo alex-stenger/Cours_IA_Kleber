@@ -17,7 +17,7 @@ import numpy as np
 def show_points(x,y) :
     plt.scatter(x,y, label="individu")
     plt.legend()
-    plt.xlabel("âge")
+    plt.xlabel("ancienneté")
     plt.ylabel("salaire annuel en k€")
     plt.show()
     
@@ -80,7 +80,7 @@ def grad_desc_b_fix(x, y, lr, epochs, xlim, ylim) :
 
 
     plt.scatter(a_list, err_list)
-    plt.title("Valeurs de a prises à chaque itération de la descente de gradient")
+    plt.title("Valeurs de a, prises chaque itération de la descente de gradient")
     plt.xlabel("Coefficient a")
     plt.ylabel("Fonction d'erreur C(a)")
     plt.xlim(xlim)
@@ -106,7 +106,7 @@ def plot_erreur_2D(x,y) :
     print(a_visu.shape, b_visu.shape, error.shape)
 
     fig = go.Figure(data=[go.Surface(x=a_visu, y=b_visu, z=error)])
-    fig.update_layout(title='Erreur en fonction des coefficients à et b : C(a,b)', autosize=False,
+    fig.update_layout(title='Erreur en fonction des coefficients a et b : C(a,b)', autosize=False,
                       width=700, height=700,
                       margin=dict(l=65, r=50, b=65, t=90))
     fig.update_layout(
