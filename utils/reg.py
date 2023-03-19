@@ -106,7 +106,7 @@ def plot_erreur_2D(x,y) :
     print(a_visu.shape, b_visu.shape, error.shape)
 
     fig = go.Figure(data=[go.Surface(x=a_visu, y=b_visu, z=error)])
-    fig.update_layout(title='Erreur en fonction des coefficients a et b : C(a,b)', autosize=False,
+    fig.update_layout(title='Erreur en fonction des coefficients a et b : C(a,b) (Descente de gradient sur Régression linéaire à 2 paramètres', autosize=False,
                       width=700, height=700,
                       margin=dict(l=65, r=50, b=65, t=90))
     fig.update_layout(
