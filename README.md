@@ -1,3 +1,5 @@
+# Repo des cours d'intelligence artificielle en 2ème année de classe préparatoire scientifique au Lycée Kléber à Strasbourg
+
 ## **FR :**
 
 Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes cours magistraux sur l'Intelligence Artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strabourg.
