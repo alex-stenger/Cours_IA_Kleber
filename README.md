@@ -8,7 +8,7 @@ Ce cours se construit autour d'un premier exemple de régression linéaire réal
 
 La descente de gradient est ensuite généralisée à plus grande dimension, pour illuster la généricité de la méthode et son utilisation dans d'autres situations. 
 
-Une fois cette notion bien comprise par les étudiants, le cours introduit les réseaux de neuronnes. Pour cela, j'ai décidé une approche plus mathématique et abstraite qui parle points par points de l'architectures des réseaux, de la notion de propagation, de backpropagation et du fonctionnement spécifique de la descente de gradient pour les réseaux de neurones. Pour cela, je reprends en grande partie les démonstration de cette très précise et explicative réference : http://neuralnetworksanddeeplearning.com/chap2.html
+Une fois cette notion bien comprise par les étudiants, le cours introduit les réseaux de neuronnes. Pour cela, j'ai décidé une approche plus mathématique et abstraite qui aborde points par points de l'architectures des réseaux, de la notion de propagation, de backpropagation et du fonctionnement spécifique de la descente de gradient pour les réseaux de neurones. Pour cela, je reprends en grande partie les démonstration de cette très précise et explicative réference : http://neuralnetworksanddeeplearning.com/chap2.html
 
 Enfin, ce cours aborde également les notions élémentaires d'apprentissage que sont la phase d'entraînement, de test, les biais, le sur-apprentissage, le sous-apprentissage, les notions de supervisé et non supervisé ou encore la différence entre Classification et régression etc etc...
 
