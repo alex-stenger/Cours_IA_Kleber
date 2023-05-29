@@ -4,7 +4,7 @@ Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes co
 
 À travers ce cours, j'ai choisi une approche par l'analyse (contrairement aux approches probabilistes de Murphy que je cite plus bas, à l'approche algèbrique du Deep Learning book de Goodfellow, ou encore via la théorie de l'information). Elle me semblait la plus adaptée aux élèves de classes préparatoire.
 
-Ce cours se construit autour d'un premier exemple de régression linéaire réalisée grâce à la descente de gradient. Cette première approche très simpliste permet aux étudiants de saisir le fonctionnement de la descente de gradient, ainsi que de revenir sur la notion fondamentale de convexité d'une fonction, ici, dans un espace de petite dimension toujours dans le but de faciliter la compréhension.
+Ce cours se construit autour d'un premier exemple de régression linéaire réalisée grâce à la descente de gradient. Cette première approche très simpliste permet aux étudiants de saisir le fonctionnement de la descente de gradient, ainsi que de revenir sur la notion fondamentale de convexité d'une fonction. Le tout dans un espace de petite dimension toujours dans le but de faciliter la compréhension.
 
 La descente de gradient est ensuite généralisée à plus grande dimension, pour illuster que c'est une méthode très générique et réutilisable dans d'autres situations. 
 
