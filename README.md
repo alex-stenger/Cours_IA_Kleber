@@ -27,3 +27,29 @@ Les références sont indiquées tout au long des slides, on peut néanmoins nom
 
 
 ## **EN :**
+
+# Repository for Artificial Intelligence Lectures in 2nd Year of Scientific Preparatory Classes at Lycée Kléber in Strasbourg
+
+This repository contains the slides and code that I used during my lectures on Artificial Intelligence in the second year of scientific preparatory classes at Lycée Kléber in Strasbourg.
+
+### Code Details
+
+My goal was to create a visually appealing and intuitive course without compromising on rigor. In the notebook `main_notebook.ipynb`, you will find a wide range of visualizations using interactive libraries such as `ipywidgets` and `plotly`. Please note that these libraries can be temperamental, so feel free to switch browsers to open the notebook or use it in vscode...
+
+The notebook `illustration_non_convexite.ipynb` aims to provide students with an intuition of what a loss landscape can be, as referred to in the Machine Learning community.
+
+In the `tmp` folder, you will find miscellaneous code that may still be useful...
+
+### Course Structure and Summary Content
+
+In this course, I chose an analytical approach (as opposed to probabilistic approaches like Murphy's, algebraic approaches like the Deep Learning book by Goodfellow, or information theory). It seemed more suitable for students in preparatory classes.
+
+The course is built around an initial example of linear regression using gradient descent. This simplistic approach allows students to grasp the functioning of gradient descent and revisit the fundamental concept of function convexity. All of this takes place in a low-dimensional space to facilitate understanding.
+
+Gradient descent is then generalized to higher dimensions to illustrate the method's versatility and its application in other situations.
+
+Once students have a good understanding of this concept, the course introduces neural networks. For this purpose, I adopted a more mathematical and abstract approach, addressing the architecture of networks, the concept of forward propagation, backpropagation, and the specific functioning of gradient descent for neural networks step by step. For this part, I largely rely on the explanations and demonstrations provided in this precise and informative reference: [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html). These explanations and demonstrations were mostly done live with the students and are not included in the slides.
+
+Finally, the course also covers basic learning concepts such as training and testing phases, biases, overfitting, underfitting, supervised and unsupervised learning, classification and regression differences, and more.
+
+Throughout the slides, the references are mentioned, but it is worth noting this highly useful book with a completely different approach: "Machine Learning: A Probabilistic Perspective" by Kevin P. Murphy (2012), published by MIT Press.
