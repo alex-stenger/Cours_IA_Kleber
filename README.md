@@ -1,4 +1,4 @@
-##**FR**
+## **FR**
 
 Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes cours magistraux sur l'Intelligence Artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strabourg.
 
@@ -13,3 +13,6 @@ Une fois cette notion bien comprise par les étudiants, le cours introduit les r
 Enfin, ce cours aborde également les notions élémentaires d'apprentissage que sont la phase d'entraînement, de test, les biais, le sur-apprentissage, le sous-apprentissage, les notions de supervisé et non supervisé ou encore la différence entre Classification et régression etc etc...
 
 Les références sont indiquées tout au long des slides, on peut néanmoins nommé ce bouquin très utile, bien que l'approche soit complétement différente : Murphy, K. P. (2012). Machine learning: a probabilistic perspective. MIT press.
+
+
+# **EN**
