@@ -32,7 +32,7 @@ Les références sont indiquées tout au long des slides, on peut néanmoins nom
 
 # Repository for Artificial Intelligence Lectures in 2nd Year of Scientific Preparatory Classes at Lycée Kléber in Strasbourg
 
-This repository contains the slides and code that I used during my lectures on Artificial Intelligence in the second year of scientific preparatory classes at Lycée Kléber in Strasbourg.
+This repository contains the slides and code that I used during my lectures on Artificial Intelligence in the second year of scientific preparatory classes (equivalent to 2nd or 3rd year of scientific bachelor) at Lycée Kléber in Strasbourg.
 
 ### Code Details
 
