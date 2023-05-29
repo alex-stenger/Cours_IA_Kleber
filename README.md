@@ -1,4 +1,4 @@
-# Cours d'intelligence artificielle en 2ème année de classe préparatoire scientifique au Lycée Kléber à Strasbourg
+# Cours d'intelligence artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strasbourg
 
 ## **FR :**
 
