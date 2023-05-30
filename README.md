@@ -29,6 +29,8 @@ Enfin, ce cours aborde également les notions élémentaires d'apprentissage que
 
 Les références sont indiquées tout au long des slides, on peut néanmoins nommé ce bouquin très utile, bien que l'approche soit complétement différente : Murphy, K. P. (2012). Machine learning: a probabilistic perspective. MIT press.
 
+Finalement, et surtout, un grand merci à Laurent Eschabch de m'avoir fait confiance dans la réalisation de ce cours, et de m'avoir épaulé autant pour sa réalisation que pour les aspects pédagogiques. 
+
 
 ## **EN :**
 
