@@ -12,7 +12,7 @@ le notebook ```illustration_non_convexite.ipynb``` essaye de donner aux élèves
 
 Dans le dossier tmp, il y a du code en vrac si je puis dire, cela peut toujours être utile...
 
-### Stucture et contenu résumé du cours
+### Structure et contenu résumé du cours
 
 À travers ce cours, j'ai choisi une approche par l'analyse (contrairement aux approches probabilistes de Murphy que je cite plus bas, à l'approche algèbrique du Deep Learning book de Goodfellow, ou encore via la théorie de l'information). Elle me semblait la plus adaptée aux élèves de classes préparatoire.
 
