@@ -2,7 +2,7 @@
 
 ## **FR :**
 
-Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes cours magistraux sur l'Intelligence Artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strabourg.
+Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes cours magistraux sur l'Intelligence Artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strabourg. Un cours manuscrit devrait arriver un jour ou l'autre, quand la thèse m'en laissera le temps... (2025 ?)
 
 ### Concernant le code
 
@@ -22,6 +22,8 @@ La descente de gradient est ensuite généralisée à plus grande dimension, pou
 
 Une fois cette notion bien comprise par les étudiants, le cours introduit les réseaux de neuronnes. Pour cela, j'ai décidé une approche plus mathématique et abstraite qui aborde points par points l'architectures des réseaux, la notion de propagation, de rétro-propagation et le fonctionnement spécifique de la descente de gradient pour les réseaux de neurones. Pour cela, je reprends en grande partie les démonstration de cette très précise et explicative réference : http://neuralnetworksanddeeplearning.com/chap2.html
 Cette partie n'est pas vraiment sur les slides, j'avais décidé de faire les explications et démonstrations en direct avec les élèves.
+
+Je continue en expliquant de manière plus succinte les algos comme les KNN, le clustering avec les K-Means, le fonctionnement d'un arbre de déision... l'idéal serait une ou deux séance de TPs sur ces notions qui sont facilement codables pour des étudiants de prépas.
 
 Enfin, ce cours aborde également les notions élémentaires d'apprentissage que sont la phase d'entraînement, de test, les biais, le sur-apprentissage, le sous-apprentissage, les notions de supervisé et non supervisé ou encore la différence entre Classification et régression etc etc...
 
