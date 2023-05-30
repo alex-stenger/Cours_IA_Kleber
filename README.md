@@ -6,7 +6,7 @@ Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes co
 
 ### Concernant le code
 
-Je m'étais fixé comme objectif de faire un cours le plus visuel et intuitif possible, sans pour autant rogner sur la rigueur. Vous trouverez pour cela dans le notebook ```main_notebook.ipynb``` un grand pannel de visualisations utilisant les bibliothèques interactives ```ipywidgets``` et ```plotly```. À noter que ces bibliothèques sont plutôt capricieuses, n'hésitez pas à changer de navigateur pour ouvrir le notebook, ou à le faire sur vscode...
+Je m'étais fixé comme objectif de faire un cours le plus visuel et intuitif possible, sans pour autant rogner sur la rigueur. Vous trouverez pour cela dans le notebook ```main_notebook.ipynb``` un grand pannel de visualisations utilisant les bibliothèques interactives ```ipywidgets``` et ```plotly```. À noter que ces bibliothèques sont plutôt capricieuses, n'hésitez pas à changer de navigateur pour ouvrir le notebook, ou à le faire sur vscode... Ces visualisations permettent d'introduire étape par étape la descente de gradient, les étudiants ont bien été réactifs à ces visualisations, n'hésitez pas à les réutiliser.
 
 le notebook ```illustration_non_convexite.ipynb``` essaye de donner aux élèves l'intuition de ce que peut-être un *loss landscape* comme on dit dans la communauté de l'Apprentissage.
 
