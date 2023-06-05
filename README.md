@@ -14,7 +14,7 @@ Dans le dossier tmp, il y a du code en vrac si je puis dire, cela peut toujours 
 
 ### Structure et contenu résumé du cours
 
-À travers ce cours, j'ai choisi une approche par l'analyse (contrairement aux approches probabilistes de Murphy que je cite plus bas, à l'approche algèbrique du Deep Learning book de Goodfellow, ou encore via la théorie de l'information). Elle me semblait la plus adaptée aux élèves de classes préparatoire.
+À travers ce cours, j'ai choisi une approche par l'Analyse (contrairement aux approches Probabilistes de Murphy que je cite plus bas, à l'approche Algèbrique du Deep Learning book de Goodfellow, ou encore via la Théorie de l'Information). Elle me semblait la plus adaptée aux élèves de classes préparatoire.
 
 Ce cours se construit autour d'un premier exemple de régression linéaire réalisée grâce à la descente de gradient. Cette première approche très simpliste permet aux étudiants de saisir le fonctionnement de la descente de gradient, ainsi que de revenir sur la notion fondamentale de convexité d'une fonction. Le tout dans un espace de petite dimension toujours dans le but de faciliter la compréhension.
 
