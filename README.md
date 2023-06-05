@@ -2,7 +2,7 @@
 
 ## **FR :**
 
-Ce dépot contient les slides ainsi que le code que j'ai utilisé lors de mes cours magistraux sur l'Intelligence Artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strabourg. Un cours manuscrit devrait arriver un jour ou l'autre, quand la thèse m'en laissera le temps... (2025 ?)
+Ce dépot contient les slides ainsi que le code que j'ai créé et utilisé lors de mes cours magistraux sur l'Intelligence Artificielle en 2ème année de CPGE scientifiques au Lycée Kléber à Strabourg. Un cours manuscrit devrait arriver un jour ou l'autre, quand la thèse m'en laissera le temps... (2025 ?)
 
 ### Concernant le code
 
